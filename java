@@ -1,2 +1,2 @@
-public static class hhhh{
+public static class hhhh{面
 }
